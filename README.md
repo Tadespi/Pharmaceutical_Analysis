@@ -1,10 +1,12 @@
-Introduction:
+# Pymaceuticals Data Analysis
+
+# Introduction:
 This repository contains the analysis of a real-world dataset from Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications. The dataset pertains to a study on potential treatments for squamous cell carcinoma (SCC), a common form of skin cancer, conducted on 249 mice. The study compares the effectiveness of various drug regimens, with a focus on Pymaceuticals' drug of interest, Capomulin.
 
 Files:
 Download the necessary files for this analysis: mouse_metadata.csv and study_results.csv
 
-Tasks:
+# Tasks:
 
 1. Prepare the Data:
 Merge the provided mouse_metadata and study_results DataFrames.
